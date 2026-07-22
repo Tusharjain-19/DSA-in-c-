@@ -19,42 +19,42 @@
                                    ║╚═══════════════════╝║
                                    
        ┌─────────────────────────────────────────────────────────┐
-       │                                                           │
-       │         🧠 Thinking through the problem...              │
-       │                                                           │
-       │  ┌──────────────────────────────────────────────┐        │
-       │  │                                              │        │
-       │  │        (o_o)  Analyzing DSA concepts       │        │
-       │  │         |\\│/|                              │        │
-       │  │          / \                                │        │
-       │  │                                              │        │
-       │  │     💭 "How do I optimize this?"           │        │
-       │  │                                              │        │
-       │  └──────────────────────────────────────────────┘        │
-       │                                                           │
-       │                         ⬇️⬇️⬇️                            │
-       │                                                           │
-       │  ┌──────────────────────────────────────────────┐        │
-       │  │   ⌨️  Writing Solution  🖥️                  │        │
-       │  │                                              │        │
-       │  │  #include <bits/stdc++.h>                  │        │
+       │                                                         │
+       │         🧠 Thinking through the problem...             -│
+       │                                                         │
+       │  ┌──────────────────────────────────────────────┐       │
+       │  │                                              │       │
+       │  │        (o_o)  Analyzing DSA concepts         │       │
+       │  │         |\\│/|                               │       │
+       │  │          / \                                 │       │
+       │  │                                              │       │
+       │  │     💭 "How do I optimize this?"            │       
+       │  │                                             │        │
+       │  └─────────────────────────────────────────────┘        │
+       │                                                         │
+       │                         ⬇️⬇️⬇️                         
+       │                                                         │
+       │  ┌─────────────────────────────────────────────┐        │
+       │  │   ⌨️  Writing Solution  🖥️                 │        │
+       │  │                                             │        │
+       │  │  #include <bits/stdc++.h>                   │        │
        │  │  using namespace std;                       │        │
-       │  │  // Optimal Solution                       │        │
-       │  │  int main() { ... }                        │        │
-       │  │                                              │        │
-       │  └──────────────────────────────────────────────┘        │
-       │                                                           │
-       │                         ⬇️⬇️⬇️                            │
-       │                                                           │
-       │  ┌──────────────────────────────────────────────┐        │
-       │  │   ✅ Submitted & Accepted!  🎉              │        │
-       │  │                                              │        │
-       │  │     Time: O(n log n)  │  Space: O(1)       │        │
-       │  │                                              │        │
-       │  │   One more problem down! 💪               │        │
-       │  │                                              │        │
-       │  └──────────────────────────────────────────────┘        │
-       │                                                           │
+       │  │  // Optimal Solution                        │        │
+       │  │  int main() { ... }                         │        │
+       │  │                                             │        │
+       │  └─────────────────────────────────────────────┘        │
+       │                                                         │
+       │                         ⬇️⬇️⬇️                         
+       │                                                         │
+       │  ┌─────────────────────────────────────────────┐        │
+       │  │   ✅ Submitted & Accepted!  🎉             │        │
+       │  │                                             │        │
+       │  │     Time: O(n log n)  │  Space: O(1)        │        │
+       │  │                                             │        │
+       │  │   One more problem down! 💪                │        
+       │  │                                            │         │
+       │  └────────────────────────────────────────────┘         │
+       │                                                         │
        └─────────────────────────────────────────────────────────┘
 ```
 
@@ -67,26 +67,26 @@
     ║                     MY CODING WORKSPACE                            ║
     ╠════════════════════════════════════════════════════════════════════╣
     ║                                                                    ║
-    ║          MONITOR ┌─────────────────────────┐                     ║
-    ║      (Problems)  │ LeetCode - Hard - Unsol │                     ║
-    ║                  │ ████████░░░░░░░░░░░░ %40│                     ║
-    ║                  └─────────────────────────┘                     ║
+    ║          MONITOR ┌─────────────────────────┐                       ║
+    ║      (Problems)  │ LeetCode - Hard - Unsol │                       ║
+    ║                  │ ████████░░░░░░░░░░░░ %40│                       ║
+    ║                  └─────────────────────────┘                       ║
     ║                                                                    ║
-    ║                   KEYBOARD & MOUSE                                ║
-    ║              ╔═══════════════════════════╗                        ║
-    ║              ║  ⌨️  QWERTY WARRIOR  🖱️  ║                        ║
-    ║              ║                           ║                        ║
-    ║              ║  C++ | Data Structure     ║                        ║
-    ║              ║  Algorithm | Problem      ║                        ║
-    ║              ╚═══════════════════════════╝                        ║
+    ║                   KEYBOARD & MOUSE                                 ║
+    ║              ╔═══════════════════════════╗                         ║
+    ║              ║  ⌨️  QWERTY WARRIOR  🖱️  ║                         ║
+    ║              ║                           ║                         ║
+    ║              ║  C++ | Data Structure     ║                         ║
+    ║              ║  Algorithm | Problem      ║                         ║
+    ║              ╚═══════════════════════════╝                         ║
     ║                                                                    ║
-    ║                   ╭─────────────────╮                            ║
-    ║                   │  ☕ Coffee Cup  │  (Never Empty!)           ║
-    ║                   │   "Keep Coding" │                            ║
-    ║                   ╰─────────────────╯                            ║
+    ║                   ╭─────────────────╮                              ║
+    ║                   │  ☕ Coffee Cup  │  (Never Empty!)             ║
+    ║                   │   "Keep Coding" │                              ║
+    ║                   ╰─────────────────╯                              ║
     ║                                                                    ║
-    ║              DESK:  [📚 DSA Book] [🎧 Headphones]               ║
-    ║                     [📋 Notes] [⏱️ Timer]                       ║
+    ║              DESK:  [📚 DSA Book] [🎧 Headphones]                 ║
+    ║                     [📋 Notes] [⏱️ Timer]                         ║
     ║                                                                    ║
     ╚════════════════════════════════════════════════════════════════════╝
 ```
@@ -141,19 +141,19 @@ The **Striver A2Z DSA Course/Sheet** is one of the most comprehensive and logica
     ╔══════════════════════════════════════════════════════════╗
     ║              DSA MASTERY PYRAMID                         ║
     ║                                                          ║
-    ║                      ADVANCED                           ║
-    ║                 (DP, Graphs, Trees)                    ║
-    ║                   /          \                          ║
-    ║                /                \                        ║
-    ║              /  INTERMEDIATE  \                          ║
-    ║            / (Arrays, Strings,  \                       ║
-    ║          /   Sorting, Binary)    \                      ║
-    ║        /                              \                 ║
-    ║      /        FUNDAMENTALS            \               ║
-    ║    / (Basics, Maths, Recursion, Hashing)\             ║
-    ║  ╔═══════════════════════════════════════════╗         ║
-    ║  ║  SOLID FOUNDATION = SUCCESS IN INTERVIEWS ║         ║
-    ║  ╚═══════════════════════════════════════════╝         ║
+    ║                      ADVANCED                            ║
+    ║                 (DP, Graphs, Trees)                      ║
+    ║                  /              \                        ║
+    ║                /                 \                       ║
+    ║              /  INTERMEDIATE       \                     ║
+    ║            / (Arrays, Strings,       \                   ║
+    ║          /   Sorting, Binary)          \                 ║
+    ║        /                                 \               ║
+    ║      /        FUNDAMENTALS                 \             ║
+    ║    / (Basics, Maths, Recursion, Hashi ng)    \           ║
+    ║  ╔═══════════════════════════════════════════╗           ║
+    ║  ║  SOLID FOUNDATION = SUCCESS IN INTERVIEWS ║           ║
+    ║  ╚═══════════════════════════════════════════╝           ║
     ║                                                          ║
     ╚══════════════════════════════════════════════════════════╝
 ```
@@ -227,10 +227,10 @@ Striver-A2Z-DSA/
 ## 💡 What Every Solution Includes
 
 ```
-╔════════════════════════════════════════════════╗
-║         SOLUTION QUALITY CHECKLIST             ║
-╠════════════════════════════════════════════════╣
-║                                                ║
+╔═══════════════════════════════════════════════╗
+║         SOLUTION QUALITY CHECKLIST            ║
+╠═══════════════════════════════════════════════╣
+║                                               ║
 ║  ✅  Clean & Readable C++ Code               ║
 ║  ✅  Clear Problem Understanding             ║
 ║  ✅  Optimized Approach Explanation          ║
@@ -241,8 +241,8 @@ Striver-A2Z-DSA/
 ║  ✅  Multiple Approaches (when applicable)   ║
 ║  ✅  Edge Cases Handled                      ║
 ║  ✅  Code that others can learn from         ║
-║                                                ║
-╚════════════════════════════════════════════════╝
+║                                               ║
+╚═══════════════════════════════════════════════╝
 ```
 
 **Example Solution Format:**
@@ -327,23 +327,23 @@ PHASE 4: MASTERY (Week 25+)
     ║                  KEY PRINCIPLES                        ║
     ╠════════════════════════════════════════════════════════╣
     ║                                                        ║
-    ║  💡 "Don't memorize solutions."                       ║
-    ║     → Understand the logic                            ║
+    ║  💡 "Don't memorize solutions."                        ║
+    ║     → Understand the logic                             ║
     ║                                                        ║
-    ║  🎯 "Learn the pattern."                              ║
-    ║     → Recognize similar problems                      ║
+    ║  🎯 "Learn the pattern."                               ║
+    ║     → Recognize similar problems                       ║
     ║                                                        ║
-    ║  📈 "Practice consistently."                          ║
-    ║     → One problem per day beats 7 per week            ║
+    ║  📈 "Practice consistently."                           ║
+    ║     → One problem per day beats 7 per week             ║
     ║                                                        ║
     ║  ✨ "Write cleaner code than yesterday."              ║
-    ║     → Continuous improvement mindset                  ║
+    ║     → Continuous improvement mindset                   ║
     ║                                                        ║
-    ║  🎓 "Understand before moving forward."               ║
-    ║     → Quality over quantity                           ║
+    ║  🎓 "Understand before moving forward."                ║
+    ║     → Quality over quantity                            ║
     ║                                                        ║
     ║  💪 "Embrace the struggle."                           ║
-    ║     → That's where learning happens                   ║
+    ║     → That's where learning happens                    ║
     ║                                                        ║
     ╚════════════════════════════════════════════════════════╝
 ```
@@ -401,12 +401,12 @@ MY LEARNING ARSENAL 🎯
     
     ╔═══════════════════════════════════════════════════════╗
     ║                                                       ║
-    ║        "The goal isn't to finish the sheet.          ║
+    ║        "The goal isn't to finish the sheet.           ║
     ║                                                       ║
-    ║        The goal is to become the kind of             ║
-    ║        programmer who no longer needs one."          ║
+    ║        The goal is to become the kind of              ║
+    ║        programmer who no longer needs one."           ║
     ║                                                       ║
-    ║                                    - Striver         ║
+    ║                                    - Striver          ║
     ║                                                       ║
     ╚═══════════════════════════════════════════════════════╝
 ```
@@ -468,12 +468,12 @@ Today is: July 22, 2026
 ║       JOURNEY STATUS OVERVIEW                  ║
 ╠════════════════════════════════════════════════╣
 ║                                                ║
-║  Problems Solved:        0 / 450+             ║
-║  Modules Completed:      0 / 21               ║
-║  Consistency Streak:     0 days               ║
+║  Problems Solved:        0 / 450+              ║
+║  Modules Completed:      0 / 21                ║
+║  Consistency Streak:     0 days                ║
 ║  Confidence Level:       🌱 Seedling          ║
 ║                                                ║
-║  Last Update:            [Starting Today]    ║
+║  Last Update:            [Starting Today]      ║
 ║                                                ║
 ╚════════════════════════════════════════════════╝
 ```
