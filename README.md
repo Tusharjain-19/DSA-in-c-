@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 # 🚀 Striver's A2Z DSA Sheet Journey (C++)
@@ -498,5 +498,3 @@ If you find this repository useful or inspiring:
 **Happy Coding!** 🎯
 
 </div>
-
-````
