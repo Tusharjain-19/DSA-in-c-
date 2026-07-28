@@ -6,7 +6,7 @@ public:
         int ans = -1;
         for(int i =0 ;i<n;i++){
             //brute   O(n*m)
-            // for(int j = 0 ;j<matrix[i].size();j++){
+            // for(int j = 0 ;j<m;j++){
             //     if(matrix[i][j]==target){
             //         ans = 1;
             //     }
@@ -16,8 +16,7 @@ public:
             while(low<=high){
                 int mid = (low+high)/2;
                 if(matrix[i][mid]==target){
-                    ans = 1;
-                    break;
+                    return true;
                 }
                 else if(matrix[i][mid]>target){
                     high = mid-1;
@@ -27,7 +26,6 @@ public:
                 }
             }
         }
-        if (ans == 1) return true;
 
         return false;   
     }
