@@ -2,8 +2,18 @@ class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
         int n = nums.size();
-        int result = lowerbound(nums,n,target);
+        int result = firstocc(nums,n,target);
         return result;
+    }
+    int firstocc(vector<int>&arr,int n ,int k){
+        int ans =n;
+        for(int i = 0 ;i<n;i++){
+            if(arr[i]>=k){
+                ans = i;
+                break;
+            }
+        }
+        return ans;
     }
     int lowerbound(vector<int>&arr,int n ,int k){
         int low = 0,high = n-1;
