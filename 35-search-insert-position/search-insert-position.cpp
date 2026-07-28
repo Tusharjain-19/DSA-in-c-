@@ -5,6 +5,7 @@ public:
         int result = firstocc(nums,n,target);
         return result;
     }
+    // use lowerbound for better complexity of log n ;
     int firstocc(vector<int>&arr,int n ,int k){
         int ans =n;
         for(int i = 0 ;i<n;i++){
