@@ -1,31 +1,23 @@
 class Solution {
 public:
     vector<vector<int>> generate(int numRows) {
+        //list of list 
         vector<vector<int>> triangle;
-        
-        if (numRows <= 0) return triangle;
-        
-        // The first row is always [1]
-        triangle.push_back({1});
-        
-        for (int i = 1; i < numRows; ++i) {
-            vector<int> prevRow = triangle.back();
-            vector<int> currRow;
-            
-            // Each row starts with 1
-            currRow.push_back(1);
-            
-            // Calculate the interior values
-            for (int j = 1; j < i; ++j) {
-                currRow.push_back(prevRow[j - 1] + prevRow[j]);
-            }
-            
-            // Each row ends with 1
-            currRow.push_back(1);
-            
-            triangle.push_back(currRow);
+        for(int i = 1 ; i <= numRows ;i++){
+            triangle.push_back(generate_row(i));
         }
-        
         return triangle;
+    }
+    //type 2 mai we generate row by its number so here we use it multiple type to print whole 
+    vector<int>generate_row(int row){
+        long long ans =1;
+        vector<int>ansrow;
+        ansrow.push_back(1);
+        for(int col=1 ; col < row ; col++){
+            ans = ans * (row-col);
+            ans = ans/col;
+            ansrow.push_back(ans);
+        }
+        return ansrow;
     }
 };
