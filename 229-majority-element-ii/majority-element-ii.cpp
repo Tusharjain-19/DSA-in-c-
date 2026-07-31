@@ -14,7 +14,7 @@ public:
                 }
             }
             // If it's not already in the list, count its occurrences
-            if (!alreadyExists) {
+            if (alreadyExists == false) {
                 int count = 0;
                 for (int j = 0; j < n; j++) {
                     if (nums[j] == nums[i]) {
